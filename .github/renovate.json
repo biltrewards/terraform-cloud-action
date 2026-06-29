@@ -1,5 +1,0 @@
-{
-    "extends": [
-        "github>biltrewards/renovate-config"
-    ]
-}
